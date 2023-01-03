@@ -10,7 +10,6 @@ secrets = []
 # Iterate over the lines of the file
 for line in lines:
     secrets.append(line.strip())
-print(secrets)
 
 # API Keys and Secret Keys
 consumer_key = 'yGavonYU6a33nanCZxr2ZVSkH'
